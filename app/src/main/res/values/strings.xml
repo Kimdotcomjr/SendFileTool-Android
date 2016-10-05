@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SendFiles</string>
+    <string name="dropafile">Drop a file...</string>
+</resources>
